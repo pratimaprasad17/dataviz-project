@@ -65,7 +65,7 @@ python -m http.server 8000
 
 ## 📊 Visualizations Used
 
-| Visualization Type | | Purpose |
+| Visualization Type | Sample Image | Purpose |
 |-------------------|---------|---------|
 | **Choropleth Map** | ![🌍](https://cdn.jsdelivr.net/gh/twitter/twemoji@13.1.0/assets/svg/1f30d.svg) | Shows the most affected areas |
 | **Bar Chart** | ![📊](https://cdn.jsdelivr.net/gh/twitter/twemoji@13.1.0/assets/svg/1f4ca.svg) | Displays damage severity across utilities |
