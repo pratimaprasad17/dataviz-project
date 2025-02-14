@@ -50,3 +50,16 @@ The dashboard processes **citizen-reported earthquake data** from **St. Himark**
 ```bash
 git clone https://github.com/your-username/disaster-response-dashboard.git
 cd disaster-response-dashboard
+
+### 2️⃣ Open the Dashboard in Browser
+Simply open the index.html file in a web browser to explore the interactive visualizations.
+
+#### Alternative: Run a Local Server (Optional)
+If you experience issues loading local files, use a simple HTTP server:
+```bash
+# Python 3 (built-in HTTP server)
+python -m http.server 8000
+
+# Then open: http://localhost:8000 in your browser
+
+
