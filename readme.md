@@ -3,7 +3,8 @@
 
 📌 **An interactive data visualization dashboard to aid emergency responders in analyzing earthquake impact and efficiently allocating resources.**  
 
-![Dashboard Preview](your-image-url-here) *(Replace with an actual image of the dashboard)*  
+![image](https://github.com/user-attachments/assets/2e1361ec-7eda-446e-81e9-9f4526680c59)
+  
 
 ---
 
