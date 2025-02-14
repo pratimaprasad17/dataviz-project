@@ -63,4 +63,59 @@ python -m http.server 8000
 # Then open: http://localhost:8000 in your browser
 ```
 
+## 📊 Visualizations Used
 
+| Visualization Type | Purpose |
+|-------------------|---------|
+| ![🌍](https://cdn.jsdelivr.net/gh/twitter/twemoji@13.1.0/assets/svg/1f30d.svg) **Choropleth Map** | Shows the most affected areas |
+| ![📊](https://cdn.jsdelivr.net/gh/twitter/twemoji@13.1.0/assets/svg/1f4ca.svg) **Bar Chart** | Displays damage severity across utilities |
+| ![🎻](https://cdn.jsdelivr.net/gh/twitter/twemoji@13.1.0/assets/svg/1f3bb.svg) **Violin Chart** | Assesses the reliability of reported data |
+| ![📉](https://cdn.jsdelivr.net/gh/twitter/twemoji@13.1.0/assets/svg/1f4c9.svg) **Stream Graph** | Tracks changes in damage over time |
+| ![📈](https://cdn.jsdelivr.net/gh/twitter/twemoji@13.1.0/assets/svg/1f4c8.svg) **Slope Graph** | Compares data variations for detailed insights |
+
+## 📝 Project Challenges & Future Scope
+
+### **Challenges Faced:**
+- 🔍 Handling **uncertainty in citizen-reported data**.
+- ⚡ Ensuring **real-time interactivity** in complex visualizations.
+- 🌍 Balancing **spatial and temporal data visualization** for better insights.
+
+---
+
+### **Future Enhancements:**
+- 🔹 **Machine Learning Integration** – Predict missing data points for better decision-making.
+- 📱 **Mobile Version** – Implementing a responsive mobile-friendly dashboard.
+- 🌐 **Crowdsourced Updates** – Enabling real-time updates from emergency responders.
+
+## 👥 Contributors
+
+This project was developed by the following team members at **Arizona State University**:
+
+- **[Pratima Prasad](mailto:pprasa11@asu.edu)**
+- **[Rutwik Chaudhari](mailto:rchaud32@asu.edu)**
+- **[Nihar Nayak](mailto:nnayak8@asu.edu)**
+- **[Soham Shimpi](mailto:sshimpi1@asu.edu)**
+- **[Devansh Dua](mailto:ddua3@asu.edu)**
+- **[Kalyani Tidke](mailto:ktidke@asu.edu)**
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – feel free to fork, modify, and use it!
+
+---
+
+## 🌟 Like this project? Give it a ⭐ on GitHub!
+
+### 📌 **How to Use This**
+1. Copy the above text and save it as **`README.md`** in your project’s root directory.
+2. Push it to your **GitHub repository** with:
+   ```bash
+   git add README.md
+   git commit -m "Added project README"
+   git push origin main
+3. It will now appear as the main description when someone visits your repository.
+
+## 🚀 Support & Contributions
+If you find this project useful, consider starring ⭐ the repository on GitHub to support our work!
